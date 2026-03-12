@@ -16,7 +16,7 @@ export default function WeatherApp() {
   };
   return (
     <div style={{ textAlign: "center" }}>
-      <h2>Weather App by SK Chaudhary</h2>
+      <h2>Weather App by Shobharam Verma</h2>
       <SearchBox updateInfo={updateInfo} />
       <InfoBox info={WeatherInfo} />
     </div>
